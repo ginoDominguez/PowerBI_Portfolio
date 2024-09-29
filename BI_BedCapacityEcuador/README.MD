@@ -21,3 +21,6 @@ The healthcare system needs strategic reforms to address resource management and
 
 You can consult the full report:
 https://lnkd.in/evqfaUf4
+
+![alt text](image.png)
+
