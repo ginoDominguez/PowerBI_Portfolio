@@ -1,0 +1,3 @@
+https://sql.bi/74268
+
+https://www.sqlbi.com/articles/improving-temporal-line-charts-in-power-bi-with-dax/
